@@ -1,6 +1,6 @@
 # Website-Riznica-citata
 
-* Website deploy on  **Wordpress**.
+* Website developed on  **Wordpress**.
 * [Link to website](https://dacilii.wordpress.com).
 * QR code <br />
   ![alt text](https://github.com/Dacili/Blog-Riznica-citata/blob/master/qrcode.PNG)
